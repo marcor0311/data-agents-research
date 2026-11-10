@@ -14,9 +14,9 @@
 
 Cada integrante investiga un Data Agent aplicado a un contexto específico, documentando su enfoque, capacidades y resultados.
 
-| Investigador | Data Agent / Caso de uso | Objetivo | Estado |
-| --- | --- | --- | --- |
-| **Marco Rodríguez** | **Copa Mundial de la FIFA 2026** | Analizar el desarrollo del torneo mediante preguntas en lenguaje natural sobre resultados, selecciones, jugadores y tendencias, y explorar los hallazgos con visualizaciones interactivas. | En investigación |
+| Investigador | Objetivo | Estado |
+| --- | --- | --- |
+| **Marco Rodríguez** | Analizar la Copa Mundial de la FIFA 2026 mediante preguntas en lenguaje natural sobre resultados, selecciones, jugadores y tendencias, y explorar los hallazgos con visualizaciones interactivas. | En investigación |
 
 ## ¿Qué es un Data Agent?
 
