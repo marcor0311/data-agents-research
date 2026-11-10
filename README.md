@@ -1,4 +1,3 @@
-
 <div align="center">
 
 # Data Agents Research
@@ -15,9 +14,9 @@
 
 Cada integrante investiga un Data Agent aplicado a un contexto específico, documentando su enfoque, capacidades y resultados.
 
-| Investigador | Data Agent / Caso de uso | Objetivo | Estado |
+| Investigador | Data Agent | Objetivo | Estado |
 | --- | --- | --- | --- |
-| **Marco Rodríguez** | **Lionel Messi — FIFA World Cup 2026** | Explorar estadísticas y desempeño del jugador mediante consultas en lenguaje natural y visualizaciones interactivas. | En investigación |
+| **Marco Rodríguez** | **Lionel Messi: FIFA World Cup 2026** | Explorar estadísticas y desempeño del jugador mediante consultas en lenguaje natural y visualizaciones interactivas. | En investigación |
 
 ## ¿Qué es un Data Agent?
 
@@ -31,8 +30,8 @@ Estas soluciones sirven como punto de partida para comparar enfoques de analíti
 
 | Plataforma | Solución | Enfoque |
 | :---: | --- | --- |
-| <img src="https://raw.githubusercontent.com/marcor0311/aws-cloud-consultant-agent/main/docs/assets/technology-icons/openai-chatgpt.svg" alt="OpenAI" title="OpenAI" width="42" height="42"> | **[OpenAI Data Agent](https://openai.com/index/put-data-to-work/)** | Investigación conversacional de datos y creación de dashboards interactivos. |
-| <img src="https://raw.githubusercontent.com/marcor0311/aws-cloud-consultant-agent/main/docs/assets/technology-icons/claude.svg" alt="Claude" title="Claude" width="42" height="42"> | **[Claude Data / Claude Dashboards](https://support.claude.com/en/articles/17454700-get-started-with-claude-data)** | Consultas a fuentes conectadas y generación de dashboards e historias visuales. |
+| <img src="docs/assets/technology-icons/openai-chatgpt.svg" alt="OpenAI" title="OpenAI" width="42" height="42"> | **[OpenAI Data Agent](https://openai.com/index/put-data-to-work/)** | Investigación conversacional de datos y creación de dashboards interactivos. |
+| <img src="docs/assets/technology-icons/claude.svg" alt="Claude" title="Claude" width="42" height="42"> | **[Claude Data / Claude Dashboards](https://support.claude.com/en/articles/17454700-get-started-with-claude-data)** | Consultas a fuentes conectadas y generación de dashboards e historias visuales. |
 | <img src="docs/assets/technology-icons/databricks.svg" alt="Databricks" title="Databricks" width="42" height="42"> | **[Databricks — Genie Agents](https://docs.databricks.com/aws/en/genie-agents/)** | Analítica en lenguaje natural sobre datos gobernados mediante Unity Catalog. |
 | <img src="docs/assets/technology-icons/tableau.svg" alt="Tableau" title="Tableau" width="42" height="42"> | **[Tableau Knowledge](https://help.tableau.com/current/online/en-gb/tableau_knowledge_about.htm)** | Conocimiento y contexto semántico del negocio para respuestas más consistentes y explicables. |
 
