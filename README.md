@@ -30,8 +30,8 @@ Estas soluciones sirven como punto de partida para comparar enfoques de analíti
 
 | Plataforma | Solución | Enfoque |
 | :---: | --- | --- |
-| <img src="docs/assets/technology-icons/openai-chatgpt.svg" alt="OpenAI" title="OpenAI" width="42" height="42"> | **[OpenAI — Data Agent](https://openai.com/index/put-data-to-work/)** | Investigación conversacional de datos y creación de dashboards interactivos. |
-| <img src="docs/assets/technology-icons/claude.svg" alt="Claude" title="Claude" width="42" height="42"> | **[Claude Data (antes Dashboards)](https://support.claude.com/en/articles/17454700-get-started-with-claude-data)** | Consultas a fuentes conectadas y generación de dashboards e historias visuales. |
+| <img src="docs/assets/technology-icons/openai-chatgpt.svg" alt="OpenAI" title="OpenAI" width="42" height="42"> | **[OpenAI Data Agent](https://openai.com/index/put-data-to-work/)** | Investigación conversacional de datos y creación de dashboards interactivos. |
+| <img src="docs/assets/technology-icons/claude.svg" alt="Claude" title="Claude" width="42" height="42"> | **[Claude Data](https://support.claude.com/en/articles/17454700-get-started-with-claude-data)<br>&nbsp;&nbsp;[Claude Dashboards](https://support.claude.com/en/articles/17454700-get-started-with-claude-data)** | Consultas a fuentes conectadas y generación de dashboards e historias visuales. |
 | <img src="docs/assets/technology-icons/databricks.svg" alt="Databricks" title="Databricks" width="42" height="42"> | **[Databricks — Genie Agents](https://docs.databricks.com/aws/en/genie-agents/)** | Analítica en lenguaje natural sobre datos gobernados mediante Unity Catalog. |
 | <img src="docs/assets/technology-icons/tableau.svg" alt="Tableau" title="Tableau" width="42" height="42"> | **[Tableau Knowledge](https://help.tableau.com/current/online/en-gb/tableau_knowledge_about.htm)** | Conocimiento y contexto semántico del negocio para respuestas más consistentes y explicables. |
 
