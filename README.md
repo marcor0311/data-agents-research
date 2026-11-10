@@ -15,9 +15,9 @@
 
 Cada integrante investiga un Data Agent aplicado a un contexto específico, documentando su enfoque, capacidades y resultados.
 
-| Investigador | Data Agent / Caso de uso | Objetivo | Estado |
+| Investigador | Data Agent | Objetivo | Estado |
 | --- | --- | --- | --- |
-| **Marco Rodríguez** | **Lionel Messi — FIFA World Cup 2026** | Explorar estadísticas y desempeño del jugador mediante consultas en lenguaje natural y visualizaciones interactivas. | En investigación |
+| **Marco Rodríguez** | **Lionel Messi: FIFA World Cup 2026** | Explorar estadísticas y desempeño del jugador mediante consultas en lenguaje natural y visualizaciones interactivas. | En investigación |
 
 ## ¿Qué es un Data Agent?
 
