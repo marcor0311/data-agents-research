@@ -22,8 +22,6 @@ Cada integrante investiga un Data Agent aplicado a un contexto específico, docu
 | **Michael Jimenez** | **[Tipo de cambio USD/CRC](agents/tipo-cambio-data-agent/README.md)** | Consultar y analizar la serie oficial de compra y venta del dólar en Costa Rica. | Prototipo local con Ollama y datos del BCCR. |
 | **David Montero** | **[Anime Data Agent](agents/anime-data-agent/README.md)** | Explorar un catálogo de anime con consultas, rankings, comparaciones y análisis conversacional. | Aplicación local; preparar el dataset tras clonar. OpenAI/MCP opcionales. |
 
-Los agentes alojados en este repositorio tienen su propia carpeta en `agents/`, con instrucciones de ejecución y documentación del caso. Los proyectos de Silvia, Michael y David se pueden consultar en sus [repositorios originales](https://github.com/srodriguez-cenfotec/ai-usage-data-agent), [Tipo_de_Cambio_DataAgent](https://github.com/mjimenezm-glitch/Tipo_de_Cambio_DataAgent) y [anime-data-agent](https://github.com/HiddenShadow77UC/anime-data-agent).
-
 ## ¿Qué es un Data Agent?
 
 Un **Data Agent** es un sistema de inteligencia artificial que permite consultar, explorar y analizar datos mediante lenguaje natural. Según sus herramientas y permisos, puede interpretar preguntas, generar y ejecutar consultas, relacionar información y presentar resultados en tablas, visualizaciones o explicaciones fundamentadas en los datos.
