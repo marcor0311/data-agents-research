@@ -18,6 +18,9 @@ Cada integrante investiga un Data Agent aplicado a un contexto específico, docu
 | --- | --- | --- | --- |
 | **Marco Rodríguez** | **Lionel Messi: FIFA World Cup 2026** | Explorar estadísticas y desempeño del jugador mediante consultas en lenguaje natural y visualizaciones interactivas. | En investigación |
 | **Silvia Rodríguez** | **AI Usage and Impact on Students & Professionals** | Explorar el impacto de la IA en estudiantes y profesionales. | [AI Usage Data Agent](https://github.com/srodriguez-cenfotec/ai-usage-data-agent) |
+| **Tomás Azofeifa Quesada** | **[Michael Jordan: Carrera NBA](agents/jordan-data-agent/README.md)** | Explorar puntos, tiros y estadísticas por partido con consultas en español y gráficas interactivas. | Prototipo funcional. Pruebas de campo pendientes. |
+
+Los agentes alojados en este repositorio tienen su propia carpeta en `agents/`, con instrucciones de ejecución y documentación del caso.
 
 ## ¿Qué es un Data Agent?
 
