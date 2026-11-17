@@ -59,7 +59,7 @@ python scripts/prepare_dataset.py
 python -m unittest discover -s scripts -p test_prepare_dataset.py -v
 ```
 
-La entrada predeterminada es el CSV del repositorio vecino `../Anime-dataset`.
+La entrada predeterminada es `Anime-dataset/data/raw/anime_seasonal_20261116.csv`, dentro de esta carpeta del agente.
 `data/processed/current.json` identifica una carga completa con copia original,
 registros normalizados, informe de calidad y manifiesto. Repetir la preparación
 con la misma entrada y transformación conserva la carga sin sobrescribirla.
