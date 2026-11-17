@@ -209,8 +209,8 @@ def build(source, output, source_repo, reference):
 
 def main():
     parser = argparse.ArgumentParser(description=__doc__)
-    parser.add_argument('--source', type=Path, default=ROOT.parent / 'Anime-dataset/data/raw/anime_seasonal_20261116.csv')
-    parser.add_argument('--source-repo', type=Path, default=ROOT.parent / 'Anime-dataset')
+    parser.add_argument('--source', type=Path, default=ROOT / 'Anime-dataset/data/raw/anime_seasonal_20261116.csv')
+    parser.add_argument('--source-repo', type=Path, default=ROOT / 'Anime-dataset')
     parser.add_argument('--output', type=Path, default=ROOT / 'data/processed')
     parser.add_argument('--reference-date', type=date.fromisoformat, default=date(2026, 11, 16))
     args = parser.parse_args()

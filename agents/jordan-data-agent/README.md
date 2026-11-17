@@ -1,4 +1,4 @@
-# Michael Jordan · Data Agents Research
+# Michael Jordan Data Agent
 
 Caso académico sobre el uso de un agente de datos para explorar la carrera NBA de Michael Jordan. El prototipo responde preguntas en español y presenta cada resultado con su alcance, una gráfica de barras y una tabla ordenable.
 

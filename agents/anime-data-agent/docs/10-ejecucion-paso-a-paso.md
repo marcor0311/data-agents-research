@@ -48,8 +48,8 @@ No hace falta activar el entorno virtual: los comandos usan directamente su Pyth
 de datos como carpeta vecina y fijar la revisión usada por el prototipo:
 
 ```powershell
-git clone https://github.com/LeoRigasaki/Anime-dataset.git ..\Anime-dataset
-git -C ..\Anime-dataset checkout 5d911e8eb286c0e8f17c263fb9ea7c09ceb1712c
+git clone https://github.com/LeoRigasaki/Anime-dataset.git Anime-dataset
+git -C Anime-dataset checkout 5d911e8eb286c0e8f17c263fb9ea7c09ceb1712c
 .\.venv\Scripts\python.exe scripts/prepare_dataset.py
 ```
 
