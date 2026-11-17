@@ -17,10 +17,12 @@ Cada integrante investiga un Data Agent aplicado a un contexto específico, docu
 | Investigador | Data Agent | Objetivo | Estado |
 | --- | --- | --- | --- |
 | **Marco Rodríguez** | **Lionel Messi: FIFA World Cup 2026** | Explorar estadísticas y desempeño del jugador mediante consultas en lenguaje natural y visualizaciones interactivas. | En investigación |
-| **Silvia Rodríguez** | **AI Usage and Impact on Students & Professionals** | Explorar el impacto de la IA en estudiantes y profesionales. | [AI Usage Data Agent](https://github.com/srodriguez-cenfotec/ai-usage-data-agent) |
-| **Tomás Azofeifa Quesada** | **[Michael Jordan: Carrera NBA](agents/jordan-data-agent/README.md)** | Explorar puntos, tiros y estadísticas por partido con consultas en español y gráficas interactivas. | Prototipo funcional. Pruebas de campo pendientes. |
+| **Silvia Rodríguez** | **[AI Usage and Impact on Students & Professionals](https://github.com/srodriguez-cenfotec/ai-usage-data-agent)** | Explorar el impacto de la IA en estudiantes y profesionales. | Investigación en curso. |
+| **Tomás Azofeifa Quesada** | **[Michael Jordan: NBA Career](agents/jordan-data-agent/README.md)** | Explorar puntos, tiros y estadísticas por partido con consultas en español y gráficas interactivas. | Prototipo funcional. Pruebas de campo pendientes. |
+| **Michael Jimenez** | **[Tipo de cambio USD/CRC](agents/tipo-cambio-data-agent/README.md)** | Consultar y analizar la serie oficial de compra y venta del dólar en Costa Rica. | Prototipo local con Ollama y datos del BCCR. |
+| **David Montero** | **[Anime Data Agent](agents/anime-data-agent/README.md)** | Explorar un catálogo de anime con consultas, rankings, comparaciones y análisis conversacional. | Aplicación local; preparar el dataset tras clonar. OpenAI/MCP opcionales. |
 
-Los agentes alojados en este repositorio tienen su propia carpeta en `agents/`, con instrucciones de ejecución y documentación del caso.
+Los agentes alojados en este repositorio tienen su propia carpeta en `agents/`, con instrucciones de ejecución y documentación del caso. Los agentes externos se mantienen vinculados a sus repositorios originales: [Tipo_de_Cambio_DataAgent](https://github.com/mjimenezm-glitch/Tipo_de_Cambio_DataAgent) y [anime-data-agent](https://github.com/HiddenShadow77UC/anime-data-agent).
 
 ## ¿Qué es un Data Agent?
 

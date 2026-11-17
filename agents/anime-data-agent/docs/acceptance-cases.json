@@ -1,0 +1,136 @@
+{
+  "source_sha256": "9f73ed290e1be7a45ec9b0772077aaedcf490660d4196e0cf1d56465072d980c",
+  "cases": [
+    {
+      "name": "Ranking completo sin mínimo de votos",
+      "query": {
+        "limit": 3
+      },
+      "expected": {
+        "total": 16927,
+        "ids": [
+          52991,
+          5114,
+          9253
+        ]
+      }
+    },
+    {
+      "name": "Fantasía TV máximo 26 episodios",
+      "query": {
+        "filters": {
+          "formats": [
+            "tv"
+          ],
+          "genres": [
+            "Fantasy"
+          ],
+          "max_episodes": 26
+        },
+        "limit": 3
+      },
+      "expected": {
+        "total": 1022,
+        "matched_total": 1128,
+        "omitted_missing_metric": 106,
+        "ids": [
+          61316,
+          59978,
+          59193
+        ]
+      }
+    },
+    {
+      "name": "Comparación por IDs",
+      "query": {
+        "kind": "compare",
+        "ids": [
+          1535,
+          16498
+        ]
+      },
+      "expected": {
+        "total": 2,
+        "ids": [
+          1535,
+          16498
+        ]
+      }
+    },
+    {
+      "name": "Detalle Death Note",
+      "query": {
+        "kind": "detail",
+        "ids": [
+          1535
+        ]
+      },
+      "expected": {
+        "total": 1,
+        "ids": [
+          1535
+        ]
+      }
+    },
+    {
+      "name": "TV por año desde 2020",
+      "query": {
+        "kind": "aggregate",
+        "filters": {
+          "formats": [
+            "tv"
+          ],
+          "year_from": 2020
+        },
+        "limit": 1
+      },
+      "expected": {
+        "total": 1731,
+        "groups": [
+          {
+            "key": "2020",
+            "count": 219
+          },
+          {
+            "key": "2021",
+            "count": 239
+          },
+          {
+            "key": "2022",
+            "count": 215
+          },
+          {
+            "key": "2023",
+            "count": 259
+          },
+          {
+            "key": "2024",
+            "count": 259
+          },
+          {
+            "key": "2025",
+            "count": 275
+          },
+          {
+            "key": "2026",
+            "count": 265
+          }
+        ]
+      }
+    },
+    {
+      "name": "Búsqueda sin coincidencias",
+      "query": {
+        "kind": "search",
+        "filters": {
+          "title": "NoSuchAnimeXYZ123"
+        }
+      },
+      "expected": {
+        "status": "empty",
+        "total": 0,
+        "ids": []
+      }
+    }
+  ]
+}
