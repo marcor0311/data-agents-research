@@ -14,15 +14,13 @@
 
 Cada integrante investiga un Data Agent aplicado a un contexto específico, documentando su enfoque, capacidades y resultados.
 
-| Investigador | Data Agent | Objetivo | Estado |
+| Investigador | Data Agent | Objetivo | Galería visual |
 | --- | --- | --- | --- |
-| **Marco Rodríguez** | **Lionel Messi: FIFA World Cup 2026** | Explorar estadísticas y desempeño del jugador mediante consultas en lenguaje natural y visualizaciones interactivas. | En investigación |
-| **Silvia Rodríguez** | **[AI Usage and Impact on Students & Professionals](agents/ai-usage-data-agent/README.md)** | Explorar el impacto de la IA en estudiantes y profesionales. | Prototipo local. |
-| **Tomás Azofeifa Quesada** | **[Michael Jordan: NBA Career](agents/jordan-data-agent/README.md)** | Explorar puntos, tiros y estadísticas por partido con consultas en español y gráficas interactivas. | Prototipo funcional. Pruebas de campo pendientes. |
-| **Michael Jimenez** | **[Tipo de cambio USD/CRC](agents/tipo-cambio-data-agent/README.md)** | Consultar y analizar la serie oficial de compra y venta del dólar en Costa Rica. | Prototipo local con Ollama y datos del BCCR. |
-| **David Montero** | **[Anime Data Agent](agents/anime-data-agent/README.md)** | Explorar un catálogo de anime con consultas, rankings, comparaciones y análisis conversacional. | Aplicación local; preparar el dataset tras clonar. OpenAI/MCP opcionales. |
-
-Los agentes alojados en este repositorio tienen su propia carpeta en `agents/`, con instrucciones de ejecución y documentación del caso. Los proyectos de Silvia, Michael y David se pueden consultar en sus [repositorios originales](https://github.com/srodriguez-cenfotec/ai-usage-data-agent), [Tipo_de_Cambio_DataAgent](https://github.com/mjimenezm-glitch/Tipo_de_Cambio_DataAgent) y [anime-data-agent](https://github.com/HiddenShadow77UC/anime-data-agent).
+| **Marco Rodríguez** | **[Lionel Messi: FIFA World Cup 2022](https://github.com/marcor0311/messi-wc-2022-data-agent)** | Explorar estadísticas y desempeño del jugador mediante consultas en lenguaje natural y visualizaciones interactivas. | [Ver imágenes](agents/leo-messi-data-agent/prototype/README.md) |
+| **Silvia Rodríguez** | **[AI Usage and Impact on Students & Professionals](agents/ai-usage-data-agent/README.md)** | Explorar el impacto de la IA en estudiantes y profesionales. | [Ver imágenes](agents/ai-usage-data-agent/prototype/README.md) |
+| **Tomás Azofeifa** | **[Michael Jordan: NBA Career](agents/jordan-data-agent/README.md)** | Explorar puntos, tiros y estadísticas por partido con consultas en español y gráficas interactivas. | [Ver imágenes](agents/jordan-data-agent/prototype/README.md) |
+| **Michael Jimenez** | **[Tipo de cambio USD/CRC](agents/tipo-cambio-data-agent/README.md)** | Consultar y analizar la serie oficial de compra y venta del dólar en Costa Rica. | [Ver imágenes](agents/tipo-cambio-data-agent/prototype/README.md) |
+| **David Montero** | **[Anime Data Agent](agents/anime-data-agent/README.md)** | Explorar un catálogo de anime con consultas, rankings, comparaciones y análisis conversacional. | [Ver imágenes](agents/anime-data-agent/prototype/README.md) |
 
 ## ¿Qué es un Data Agent?
 
