@@ -1,8 +1,6 @@
 # Prototipo de UFO Data Agent
 
-Portada del [UFO Data Agent](https://github.com/marcor0311/UFO-Data-Agent), un caso de investigación sobre la exploración conversacional de informes de fenómenos aéreos no identificados. La experiencia presenta el archivo en tema claro, recorre los testimonios y sus fuentes, explica cómo se analiza una pregunta y termina con el acceso al agente.
-
-Las fotografías del recorrido son recreaciones editoriales. El agente consulta agregados y evidencia de la capa Gold del proyecto.
+Galería de [UFO Data Agent](https://github.com/marcor0311/UFO-Data-Agent). Los datos provienen de Gold y las fotografías son recreaciones editoriales.
 
 ## Portada del archivo UAP
 
@@ -14,7 +12,7 @@ Las fotografías del recorrido son recreaciones editoriales. El agente consulta 
 
 ## Protocolo de investigación
 
-Un Data Agent interpreta preguntas en lenguaje natural, usa herramientas para consultar fuentes autorizadas y presenta resultados con contexto. El ejemplo de la portada muestra cómo UFO Data Agent interpreta un recuento por forma, ejecuta una consulta validada sobre Gold y devuelve un resultado con su evidencia.
+El agente convierte una pregunta sobre los informes en una consulta a Gold y muestra el resultado con su evidencia.
 
 ![Expediente visual con la definición de Data Agent y los tres pasos de una consulta sobre las formas reportadas](03-protocolo-de-investigacion.png)
 
