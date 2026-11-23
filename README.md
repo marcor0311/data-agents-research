@@ -17,6 +17,7 @@ Cada integrante investiga un Data Agent aplicado a un contexto específico, docu
 | Investigador | Data Agent | Objetivo | Galería visual |
 | --- | --- | --- | --- |
 | **Marco Rodríguez** | **[Lionel Messi: FIFA World Cup 2022](https://github.com/marcor0311/messi-wc-2022-data-agent)** | Explorar estadísticas y desempeño del jugador mediante consultas en lenguaje natural y visualizaciones interactivas. | [Ver imágenes](agents/leo-messi-data-agent/prototype/README.md) |
+| **Marco Rodríguez** | **[UFO Data Agent](https://github.com/marcor0311/UFO-Data-Agent)** | Explorar informes de fenómenos aéreos no identificados mediante consultas en español y resultados con trazabilidad a Gold. | [Ver imágenes](agents/ufo-data-agent/prototype/README.md) |
 | **Silvia Rodríguez** | **[AI Usage and Impact on Students & Professionals](https://github.com/srodriguez-cenfotec/ai-usage-data-agent)** | Explorar el impacto de la IA en estudiantes y profesionales. | [Ver imágenes](agents/ai-usage-data-agent/prototype/README.md) |
 | **Tomás Azofeifa** | **[Michael Jordan: NBA Career](https://github.com/tomazoque/jordan-data-agent)** | Explorar puntos, tiros y estadísticas por partido con consultas en español y gráficas interactivas. | [Ver imágenes](agents/jordan-data-agent/prototype/README.md) |
 | **Michael Jimenez** | **[Tipo de cambio USD/CRC](https://github.com/mjimenezm-glitch/Tipo_de_Cambio_DataAgent)** | Consultar y analizar la serie oficial de compra y venta del dólar en Costa Rica. | [Ver imágenes](agents/tipo-cambio-data-agent/prototype/README.md) |
